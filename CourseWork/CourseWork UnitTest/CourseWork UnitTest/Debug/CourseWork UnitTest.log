@@ -1,0 +1,15 @@
+﻿  CourseWork UnitTest.cpp
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\CourseWork\CourseWork\CourseWork\String.cpp(79,22): warning C4244: =: преобразование "std::streamsize" в "size_t", возможна потеря данных
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\CourseWork\CourseWork\CourseWork\RPN.cpp(376,31): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "char", не может равняться данной константе
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\CourseWork\CourseWork UnitTest\CourseWork UnitTest\CourseWork UnitTest.cpp(23,1): warning C4267: аргумент: преобразование из "size_t" в "T"; возможна потеря данных
+          with
+          [
+              T=char
+          ]
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\CourseWork\CourseWork UnitTest\CourseWork UnitTest\CourseWork UnitTest.cpp(35,1): warning C4267: аргумент: преобразование из "size_t" в "T"; возможна потеря данных
+          with
+          [
+              T=char
+          ]
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\CourseWork\CourseWork UnitTest\CourseWork UnitTest\CourseWork UnitTest.cpp(49,1): warning C4267: аргумент: преобразование из "size_t" в "char"; возможна потеря данных
+  CourseWork UnitTest.vcxproj -> C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\CourseWork\CourseWork\Debug\CourseWork UnitTest.dll
